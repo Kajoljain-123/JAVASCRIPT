@@ -1,0 +1,21 @@
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border: 2px solid yellow;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
+
+/*ye file check kr lena tune iska name change kiya hai style8 hai iska name or tune 
+indexch8Event.html me bhi joda hai isko agr koi dikkat
+aaye to check krna vaps name bdl lena */ 
